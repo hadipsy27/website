@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "Hai, Saya Hadi Prasetyo";
 export const SITE_DESCRIPTION =
-  "Situs ini berisi informasi tentang saya, tulisan, opini dan kebanyakan adalah dokumentasi untuk saya pribadi ketika sedang belajar atau membagikan sesuatu.";
+  "Situs ini berisi informasi tentang saya, catatan, dan pendapat, dan sebagian besar digunakan sebagai dokumentasi untuk belajar atau membagikan sesuatu kepada orang lain.";
 export const TWITTER_HANDLE = "@hadipsy27";
 export const MY_NAME = "Hadi Prasetyo";
 
